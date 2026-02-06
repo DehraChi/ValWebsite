@@ -28,18 +28,18 @@ export const CONFIG: SiteConfig = {
     },
     {
       id: 2,
-      url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=800",
+      url: "https://i.postimg.cc/MHBThJTD/Whats_App_Image_2026_02_06_at_12_09_52_(2).jpg",
       caption: "I can't remember what the moment was but I was happy to be with you."
     },
     {
       id: 3,
-      url: "https://unsplash.com/photos/a-view-of-the-top-of-a-bridge-from-below-omtiV2IhN4o",
+      url: "https://i.postimg.cc/prjTgMTY/Whats_App_Image_2026_02_06_at_12_09_52_(3).jpg",
       title: "Chi and Bee",
       caption: "It was rainy and the bike guy stopped to avoid the raindrops drenching us. I was so happy to be with you and I hope we can have more moments like this."
     },
     {
       id: 4,
-      url: "public/pictures/WhatsApp Image 2026-02-06 at 12.09.52.jpeg",
+      url: "https://i.postimg.cc/C581Wp1C/Whats_App_Image_2026_02_06_at_12_09_52_(5).jpg",
       title: "After Church Shenanigans",
       caption: "One of the things I miss about us when we are apart is our after church shenanigans. I hope we can have more of those moments together."
     }
