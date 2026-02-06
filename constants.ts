@@ -22,14 +22,13 @@ export const CONFIG: SiteConfig = {
   memories: [
     {
       id: 1,
-      url: "https://drive.google.com/file/d/1V1nCdcwl_EjrJy1TYCCwnBlO6jORQvch/view?usp=drive_link",
+      url: "https://i.postimg.cc/LXTgxpJB/Whats_App_Image_2026_02_06_at_12_09_52_(1).jpg",
       title: "Chi and Bee",
       caption: "Power Couple Moments"
     },
     {
       id: 2,
-      url: "public/pictures/WhatsApp Image 2026-02-06 at 12.09.52 (6).jpeg",
-      title: "Chi and Bee",
+      url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=800",
       caption: "I can't remember what the moment was but I was happy to be with you."
     },
     {
