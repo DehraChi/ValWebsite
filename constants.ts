@@ -22,7 +22,7 @@ export const CONFIG: SiteConfig = {
   memories: [
     {
       id: 1,
-      url: "public/pictures/WhatsApp Image 2026-02-06 at 12.09.52 (1).jpeg",
+      url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=800",
       title: "Chi and Bee",
       caption: "Power Couple Moments"
     },
