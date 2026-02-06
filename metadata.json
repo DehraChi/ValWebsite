@@ -1,0 +1,7 @@
+{
+  "name": "Eternal Rose - Romantic Portfolio",
+  "description": "An elegant, dark-themed romantic website for sharing messages and memories with a loved one, featuring smooth animations and a soft glowing aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
