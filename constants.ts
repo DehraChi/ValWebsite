@@ -51,5 +51,5 @@ export const CONFIG: SiteConfig = {
   
   // 6. Background music URL (MP3/OGG)
   // Note: Ensure the link is direct to an audio file
-  musicUrl: "https://soundcloud.com/ojiaku-chidera-francis/valentine-song/s-TPdy19s2Rzj?si=020873de518543bcb38c9ebb62e2c249&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+  musicUrl: "https://open.spotify.com/track/17atvSE2rLydPPEprOAnoH?si=aab25bb8a0df49c5"
 };
