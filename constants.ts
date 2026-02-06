@@ -29,7 +29,7 @@ export const CONFIG: SiteConfig = {
     {
       id: 2,
       url: "https://i.postimg.cc/C581Wp1C/Whats_App_Image_2026_02_06_at_12_09_52_(5).jpg",
-      title: "Chi and Bee"
+      title: "Chi and Bee",
       caption: "I can't remember what the moment was but I was happy to be with you."
     },
     {
