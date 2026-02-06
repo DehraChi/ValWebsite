@@ -34,7 +34,7 @@ export const CONFIG: SiteConfig = {
     },
     {
       id: 3,
-      url: "public/pictures/WhatsApp Image 2026-02-06 at 12.09.52 (3).jpeg",
+      url: "https://unsplash.com/photos/a-view-of-the-top-of-a-bridge-from-below-omtiV2IhN4o",
       title: "Chi and Bee",
       caption: "It was rainy and the bike guy stopped to avoid the raindrops drenching us. I was so happy to be with you and I hope we can have more moments like this."
     },
