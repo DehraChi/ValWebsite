@@ -22,25 +22,25 @@ export const CONFIG: SiteConfig = {
   memories: [
     {
       id: 1,
-      url: "Pictures\\WhatsApp Image 2026-02-06 at 12.09.52 (1).jpeg",
+      url: "public/pictures/WhatsApp Image 2026-02-06 at 12.09.52 (1).jpeg",
       title: "Chi and Bee",
       caption: "Power Couple Moments"
     },
     {
       id: 2,
-      url: "Pictures\\WhatsApp Image 2026-02-06 at 12.09.52 (6).jpeg",
+      url: "public/pictures/WhatsApp Image 2026-02-06 at 12.09.52 (6).jpeg",
       title: "Chi and Bee",
       caption: "I can't remember what the moment was but I was happy to be with you."
     },
     {
       id: 3,
-      url: "Pictures\\WhatsApp Image 2026-02-06 at 12.09.52 (3).jpeg",
+      url: "public/pictures/WhatsApp Image 2026-02-06 at 12.09.52 (3).jpeg",
       title: "Chi and Bee",
       caption: "It was rainy and the bike guy stopped to avoid the raindrops drenching us. I was so happy to be with you and I hope we can have more moments like this."
     },
     {
       id: 4,
-      url: "Pictures\\WhatsApp Image 2026-02-06 at 12.09.52.jpeg",
+      url: "public/pictures/WhatsApp Image 2026-02-06 at 12.09.52.jpeg",
       title: "After Church Shenanigans",
       caption: "One of the things I miss about us when we are apart is our after church shenanigans. I hope we can have more of those moments together."
     }
@@ -51,5 +51,5 @@ export const CONFIG: SiteConfig = {
   
   // 6. Background music URL (MP3/OGG)
   // Note: Ensure the link is direct to an audio file
-  musicUrl: "Music\\videoplayback.mp3"
+  musicUrl: "public/music/videoplayback.mp3"
 };
