@@ -40,7 +40,7 @@ export const CONFIG: SiteConfig = {
     },
     {
       id: 4,
-      url: "https://i.postimg.cc/XNCrzdt8/Whats-App-Image-2026-02-06-at-12-09-52.jpg",
+      url: "https://res.cloudinary.com/djhf5n94n/image/upload/v1770388954/WhatsApp_Image_2026-02-06_at_12.09.52_tomfgc.jpg",
       title: "After Church Shenanigans",
       caption: "One of the things I miss about us when we are apart is our after church shenanigans. I hope we can have more of those moments together."
     }
