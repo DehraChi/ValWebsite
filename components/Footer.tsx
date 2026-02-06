@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col items-center gap-4">
           <Heart className="text-rose-600 fill-rose-600 animate-pulse" size={32} />
           <div className="text-slate-500 text-sm tracking-widest uppercase">
-            Always & Forever
+            Made with ❤️ by Chi
           </div>
         </div>
       </motion.div>
