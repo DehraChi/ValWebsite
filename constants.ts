@@ -22,7 +22,7 @@ export const CONFIG: SiteConfig = {
   memories: [
     {
       id: 1,
-      url: "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&q=80&w=800",
+      url: "https://i.postimg.cc/LXTgxpJB/Whats_App_Image_2026_02_06_at_12_09_52_(1).jpg",
       title: "Chi and Bee",
       caption: "Power Couple Moments"
     },
@@ -47,8 +47,10 @@ export const CONFIG: SiteConfig = {
   ],
   
   // 5. The final line of text
-  closingText: "Replace all the 'Boy' in the music with 'Girl'. Forever is a long time, but I wouldn't mind spending it by your side.",
-  
+  closingText: "I love you, Baby mine",
+
+  madebyText: "Made with ❤️ by Chi",
+
   // 6. Background music URL (MP3/OGG)
   // Note: Ensure the link is direct to an audio file
   musicUrl: "https://open.spotify.com/track/17atvSE2rLydPPEprOAnoH?si=aab25bb8a0df49c5"

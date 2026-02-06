@@ -12,5 +12,6 @@ export interface SiteConfig {
   messages: string[];
   memories: Memory[];
   closingText: string;
+  madebyText: string;
   musicUrl: string;
 }
