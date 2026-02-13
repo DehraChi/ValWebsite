@@ -6,7 +6,7 @@ import { SiteConfig } from './types';
  */
 export const CONFIG: SiteConfig = {
   // 1. The main names displayed in the Intro
-  coupleName: "Happy Val my Love",
+  coupleName: "BiBi'm, Happy Valentine's Day",
   
   // 2. Subtext below the names
   heroSubtitle: "A journey of a thousand moments, captured in one heart.",
