@@ -40,7 +40,7 @@ export const CONFIG: SiteConfig = {
     },
     {
       id: 4,
-      url: "/public/WhatsApp Image 2026-02-06 at 12.09.52.jpeg",
+      url: "/pictures/WhatsApp Image 2026-02-06 at 12.09.52.jpeg",
       title: "After Church Shenanigans",
       caption: "One of the things I miss about us when we are apart is our after church shenanigans. I hope we can have more of those moments together."
     }
