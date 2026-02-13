@@ -53,5 +53,5 @@ export const CONFIG: SiteConfig = {
 
   // 6. Background music URL (MP3/OGG)
   // Note: Ensure the link is direct to an audio file
-  musicUrl: "/music/1.mp3"
+  musicUrl: "/music/2.mp3"
 };
