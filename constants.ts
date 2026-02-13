@@ -6,10 +6,10 @@ import { SiteConfig } from './types';
  */
 export const CONFIG: SiteConfig = {
   // 1. The main names displayed in the Intro
-  coupleName: "BiBi'm, Happy Valentine's Day",
+  coupleName: "BiBi'm",
   
   // 2. Subtext below the names
-  heroSubtitle: "A journey of a thousand moments, captured in one heart.",
+  heroSubtitle: "Happy Valentine's Day, Baby mine! \n This website is a little surprise to show you how much \n I love you and to celebrate our special day together. \n I hope you enjoy it as much as I enjoyed making it for you.",
   
   // 3. Your custom written messages (displayed in the Message section)
   messages: [
