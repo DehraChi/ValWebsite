@@ -9,7 +9,7 @@ export const CONFIG: SiteConfig = {
   coupleName: "BiBi'm",
   
   // 2. Subtext below the names
-  heroSubtitle: "Happy Valentine's Day, Baby mine! \n This website is a little surprise to show you how much \n I love you and to celebrate our special day together. \n I hope you enjoy it as much as I enjoyed making it for you.",
+  heroSubtitle: "Happy Valentine's Day, Baby mine! \n This website is a little surprise to show you how much \n I love you and to celebrate our special day together. \n I hope you enjoy it as much as I enjoyed making it for you. \n Here's to many more Valentine's Days filled with love, laughter, and unforgettable memories. \n Oya press the play button to hear our song for this valentine's day! ❤️",
   
   // 3. Your custom written messages (displayed in the Message section)
   messages: [
